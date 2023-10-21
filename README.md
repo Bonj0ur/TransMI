@@ -1,7 +1,3 @@
----
-typora-root-url: ./
----
-
 # TransMI: a Transfer-learning method for generalized Map Information evaluation
 
 Pytorch implementation of our paper “TransMI: a Transfer-learning method for generalized Map Information evaluation”. We collect a Subjective dataset for deep learning in Information Theory of Cartography named SITC and propose a novel approach, dubbed TransMI, to measure the quality of generalized map information, which is faster, more unified, and more subjective.
