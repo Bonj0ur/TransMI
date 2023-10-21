@@ -86,4 +86,4 @@ python train.py --model_path ../logs/generate_ckpoint_output/model.pth --model_i
 
 Here, we provide some prediction results of our model.
 
-![Visualization](assets\Visualization.png)
+![Visualization](./assets/visualization.png)
